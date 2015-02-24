@@ -22,8 +22,8 @@
 #define CLIENT_VERSION_MAX 860
 #define CLIENT_VERSION_STRING "Only clients with protocol 8.60 allowed!"
 
-#define STATUS_SERVER_NAME "fireelement"
-#define STATUS_SERVER_VERSION "v0.3.6"
+#define STATUS_SERVER_NAME "The Forgotten Server"
+#define STATUS_SERVER_VERSION "0.3.6"
 #define STATUS_SERVER_PROTOCOL "8.60"
 #define VERSION_DATABASE 23
 
