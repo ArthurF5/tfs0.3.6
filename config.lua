@@ -114,8 +114,8 @@
 	sqlPort = 3306
 	sqlUser = "root"
 	sqlPass = ""
-	sqlDatabase = "thelostserver"
-	sqlFile = "lostserver.s3db"
+	sqlDatabase = ""
+	sqlFile = "forgottenserver.s3db" -- need fix
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
 	mysqlWriteTimeout = 10
@@ -315,7 +315,7 @@
 	ownerName = ""
 	ownerEmail = ""
 	url = "http://OtLand.net/"
-	location = "Brazil"
+	location = ""
 	displayGamemastersWithOnlineCommand = false
 
 	-- Logs
